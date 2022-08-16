@@ -5,12 +5,12 @@
 ## Требования
 
 - PHP 7.4 и выше
-- 
+
 ## Установка
 
 composer require EKichigin/otus-composer-package-eduard
 
 ## Использование
 
-$processor = new stringProcessor();
+$processor = new stringProcessor(); /n
 echo $processor->getLength('string'); // 9
