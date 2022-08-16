@@ -1,0 +1,16 @@
+{
+    "name": "ekichigin/otus-composer-package-eduard",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "EKichigin\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eduard",
+            "email": "ek@redstart.pro"
+        }
+    ],
+    "require": {}
+}
