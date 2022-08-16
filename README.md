@@ -8,7 +8,7 @@
 
 ## Установка
 
-composer require EKichigin/otus-composer-package-eduard
+composer require ekichigin/otus-composer-package-eduard
 
 ## Использование
 
