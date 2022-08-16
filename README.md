@@ -8,10 +8,20 @@
 
 ## Установка
 
+```bash
+
 composer require ekichigin/otus-composer-package-eduard
 
+```
+
 ## Использование
+
+```php
+
+<?php
 
 $processor = new StringProcessor();
 
 echo $processor->getLength('string'); // 9
+
+```
