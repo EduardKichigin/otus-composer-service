@@ -12,5 +12,6 @@ composer require EKichigin/otus-composer-package-eduard
 
 ## Использование
 
-$processor = new stringProcessor(); /n
+$processor = new stringProcessor();
+
 echo $processor->getLength('string'); // 9
