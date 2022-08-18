@@ -12,5 +12,10 @@
             "email": "ek@redstart.pro"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "platform": {
+            "php": ">=7.4"
+        }
+    }
 }
